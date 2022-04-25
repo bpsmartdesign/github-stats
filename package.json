@@ -1,0 +1,19 @@
+{
+  "name": "github-stats",
+  "version": "1.0.0",
+  "description": "Github statistics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "#github",
+    "#bpsmartdesign"
+  ],
+  "author": "bpsmartdesign",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/core": "^3.6.0"
+  }
+}
